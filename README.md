@@ -9,5 +9,5 @@ conda activate PSSGTSF
 pip install -r requirements.txt
 sh run_all.sh
 ```
-## 目录结构
+
 
